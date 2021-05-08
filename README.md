@@ -1,0 +1,2 @@
+# FunnyProject
+Some funny projects
